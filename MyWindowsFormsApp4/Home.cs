@@ -28,5 +28,10 @@ namespace MyWindowsFormsApp4
             showLabel.Text = nameTextBox.Text;
            
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
