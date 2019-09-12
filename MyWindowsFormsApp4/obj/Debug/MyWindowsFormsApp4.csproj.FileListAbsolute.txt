@@ -19,3 +19,4 @@ D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.csproj.CoreCo
 D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.exe
 D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.pdb
 D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.DataTypUi.resources
+D:\afsar\Secondday\MyWindowsFormsApp4\obj\Debug\MyWindowsFormsApp4.ConditionUi.resources
